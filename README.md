@@ -1,5 +1,5 @@
 # React + Vite
-#[dragon news: ](https://moha-milon-practices-project.web.app/category/01)
+# [dragon news: ](https://moha-milon-practices-project.web.app/category/01)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
